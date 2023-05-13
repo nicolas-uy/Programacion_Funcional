@@ -1,4 +1,4 @@
-# Programacion_Funcional
+# Programación Funcional
 
 Proyecto de Ejercicios en Eclipse IDE y Java 8
 
