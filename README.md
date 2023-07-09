@@ -2,7 +2,7 @@
 
 Proyecto de Ejercicios en Eclipse IDE y Java 8
 
-Este proyecto consiste en una serie de 12 ejercicios desarrollados en Eclipse IDE utilizando Java 8, enfocados en programación funcional y el uso de streams.
+Serie de 12 ejercicios desarrollados en Eclipse IDE utilizando Java 8, enfocados en programación funcional y el uso de streams.
 
 Cada ejercicio se ha abordado de manera funcional, aprovechando las características y ventajas de la programación funcional en Java 8. Se ha utilizado el paradigma de streams para manipular y transformar datos de manera eficiente y concisa.
 
